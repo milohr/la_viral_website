@@ -1,0 +1,207 @@
+ 
+body
+{
+   
+   line-height:1.5;
+   /*font:15px/1.5 Arial,helvetica, sans-serif*/
+   margin:0;
+   padding:0;
+   background-color:gray;
+   
+}
+
+
+/*global*/
+
+header
+{
+    background-color: #fcf6e0;
+    
+   
+}  
+ ul
+{
+    margin:0;
+    padding:0;
+    
+}
+
+.menu
+{
+    text-align:right;
+    padding:10px;
+    
+}
+
+.menu a
+{
+    text-decoration:none;
+    padding-right:10px;
+    font-size: 16px;
+   line-height:1.5;
+   font-weight:bold;
+  font-family:helvetica;
+}
+
+
+.container 
+{   
+   
+    width: auto;
+    height: auto;     
+    margin:auto;
+    overflow:hidden;
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+
+}
+
+#header
+{
+     background: #b9e9eb;
+}
+.container span
+{
+    
+ text-align:center;     
+    width:20%;
+    
+}
+
+ 
+.container span h1
+{
+    color:#293028;
+    font-size: 52px;
+   line-height:1;
+   text-decoration:underline;
+   
+}
+.container span h2
+{
+    font-size: 28px;
+   line-height:1.5;
+   font-weight:bold;
+}
+
+.container span h3
+{
+    font-size: 15px;
+   line-height:1.5;
+   font-weight:normal;
+   
+}
+
+.container span p
+{
+    font-size: 13px;
+   line-height:1.5;
+   
+  
+}
+
+#header p
+{
+    font-weight:bold;
+}
+
+.pages
+{
+    background-color:#b9e9eb;
+}
+
+.pages h1
+{
+    margin:0;
+    padding:0;
+    padding-left:10px;
+    font-size:20px;
+}
+
+
+#subheader
+{
+    background:#fef6e1;
+    padding: 20px;
+    
+}
+
+
+#subheader h2
+{
+    text-decoration:underline;
+    font-size:24px;
+    line-height:0;
+    font-family:helvetica; 
+}
+#subheader2 h2
+{
+    line-height:1;
+    margin-bottom:0;
+    padding-bottom:0;
+    font-family:helvetica; 
+}
+
+
+#subheader p,
+#subheader2 p
+{
+    font-size:15px;
+    font-family:helvetica; 
+}
+
+#subheader2
+{
+    height:30%;
+    padding:0;
+    
+}
+
+#subheader2 #sec1
+{
+    
+
+    width:40%;
+    height:100%;
+background:url("gif/uno.gif") no-repeat center center;
+-webkit-filter: hue-rotate(180deg);
+filter: hue-rotate(18deg);
+    padding: 10px;
+    
+}
+
+#subheader2 #sec2
+{
+    width:40%;
+    height:100%;
+    background:url("gif/dos.gif") no-repeat center center;
+    -webkit-filter: hue-rotate(180deg);
+filter: hue-rotate(180deg);
+    padding: 10px;
+    
+}
+
+#subheader2 #sec3
+{
+    width:100%;
+    height:100%;
+    background:#ddf5d3;
+    
+    
+    
+}
+
+#subheader2 #sec3 h2
+{
+    font-size:22px;
+    
+}
+
+#subheader2 #sec3 #subsec3
+{
+   float:left;
+
+    
+}
+
