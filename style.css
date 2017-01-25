@@ -23,6 +23,7 @@ header
 {
     margin:0;
     padding:0;
+
     
 }
 
@@ -30,6 +31,7 @@ header
 {
     text-align:right;
     padding:10px;
+
     
 }
 
@@ -41,6 +43,7 @@ header
    line-height:1.5;
    font-weight:bold;
   font-family:helvetica;
+  
 }
 
 
@@ -60,6 +63,18 @@ header
 #header
 {
      background: #b9e9eb;
+}
+
+#header #sec2 h3
+{margin: 0;
+}
+
+#header #sec2 h1
+{margin:50px 20px 0 20px; 
+}
+
+#header #sec2 img
+{margin-bottom:50px; 
 }
 .container span
 {
@@ -148,8 +163,20 @@ header
 #subheader2 p
 {
     font-size:15px;
-    font-family:helvetica; 
+    font-family:helvetica;
+
+    
+
 }
+
+#subheader #sec3 p
+{
+    font-size:15px;
+    font-family:helvetica; 
+    text-align: justify;
+}
+
+
 
 #subheader2
 {
@@ -164,9 +191,9 @@ header
 
     width:40%;
     height:100%;
-background:url("gif/uno.gif") no-repeat center center;
+background:url("gif/cuatro.gif") no-repeat center center;
 -webkit-filter: hue-rotate(180deg);
-filter: hue-rotate(18deg);
+filter: hue-rotate(180deg);
     padding: 10px;
     
 }
@@ -178,6 +205,7 @@ filter: hue-rotate(18deg);
     background:url("gif/dos.gif") no-repeat center center;
     -webkit-filter: hue-rotate(180deg);
 filter: hue-rotate(180deg);
+
     padding: 10px;
     
 }
@@ -191,6 +219,15 @@ filter: hue-rotate(180deg);
     
     
 }
+
+#subheader2 #sec3 p
+{
+  text-align:justify;
+ margin:30px 80px 0 80px; 
+
+}
+
+
 
 #subheader2 #sec3 h2
 {
