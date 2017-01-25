@@ -36,9 +36,9 @@
         </span>
         
         <span  id="sec2">
-            <h3> julio </h3>
-            <h1> *Next<br/>digital<br/>filmmaker </h1>
-            <h3> 76 horas </h3>
+        
+            <h1> LA<br/>VIRAL </h1>
+            
         </span>
         
         
@@ -55,7 +55,7 @@
     
     <section class="pages">
         <div id="pages">
-            <h1> 1 2  3  4  5</h1>
+        
         </div>
         
     </section>
@@ -65,27 +65,25 @@
     <div class="container" id="subheader">
         <span id="sec1">
             
-            <h2> MA's </h2>
-            <p> Cursos Anuales</p>
+            <h2>Investigación</h2>
+            <p>percepción de marca</p>
             
         </span>
         
         <span  id="sec2">
-            <h2> deMA's </h2>
-            <p> Workshops especializados</p>
+            <h2>Multimedia</h2>
+            <p>realizamos contenidos digitales</p>
         </span>
         
         
         
         <span  id="sec4">
-            <h2> Tools </h2>
-            <p> Cursos herramientas</p>                        
+            <h2>Laboratorio</h2>
+            <p>compartimos ideas
+</p>                        
         </span>
         
-        <span  id="sec3">
-            <h2> Packs </h2>
-            <p> Diseño & Motion</p>                        
-        </span>
+    
         
     </div>
     </section>
@@ -98,9 +96,7 @@
     <div class="container" id="subheader2">
         <span id="sec1">
             
-            <h2> 22.mar. </h2>
-            <p> Inaguración curso nivel<br>avanzado 'Total HTML5'</p>
-            <p><a href="index.html"> ver más </a></p>
+           
             
         </span>
         
@@ -121,6 +117,36 @@
                         
             </span>
             
+        </span>
+        
+    </div>
+    </section>
+    
+    <section>
+    
+    <div class="container" id="subheader">
+        <span id="sec1">
+            
+            <h2>Creativos</h2>
+            <p>nuestro equipo</p>
+            
+        </span>
+        
+        <span  id="sec2">
+            <h2>Artistas</h2>
+            <p>multimedia </p>
+        </span>
+        
+        
+        
+        <span  id="sec4">
+            <h2>Programadores</h2>
+            <p>digital</p>                        
+        </span>
+        
+        <span  id="sec3">
+            <h2>Mercadeo</h2>
+            <p>estrategas</p>                        
         </span>
         
     </div>
