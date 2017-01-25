@@ -160,13 +160,9 @@ header
 
 #subheader2 #sec1
 {
-    
-
     width:40%;
     height:100%;
-background:url("gif/uno.gif") no-repeat center center;
--webkit-filter: hue-rotate(180deg);
-filter: hue-rotate(18deg);
+    background:#ffe4d3;
     padding: 10px;
     
 }
@@ -175,9 +171,7 @@ filter: hue-rotate(18deg);
 {
     width:40%;
     height:100%;
-    background:url("gif/dos.gif") no-repeat center center;
-    -webkit-filter: hue-rotate(180deg);
-filter: hue-rotate(180deg);
+    background:#fff2bb;
     padding: 10px;
     
 }
@@ -201,7 +195,7 @@ filter: hue-rotate(180deg);
 #subheader2 #sec3 #subsec3
 {
    float:left;
-
+   height:100%;
     
 }
 
